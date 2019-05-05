@@ -4,3 +4,7 @@
 # Links
 
 >[Discord Server](https://discord.gg/WW56DEz)
+
+# Contributors
+
+- Crab Brave <<crabbrave@outlook.com>>
